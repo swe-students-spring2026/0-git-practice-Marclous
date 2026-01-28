@@ -13,5 +13,8 @@ I find this interesting because it solves the "floating point error" problem in 
 
 It completely demystifies how to create "tight" controls, showing how functions like `MoveX` and `Squish` manage collision detection pixel-by-pixel rather than relying on a black-box physics engine.
 
+### Comments by Jack Escowitz
+I really enjoyed this article because I love hearing about how Object Oriented Programming is applied to games where it is most apt. It is fascinating seeing how all in-game physics relies on two fundamental classes, `Solid`s and `Actor`s; it reminds me of my CS101 final project.
+
 ---
 *Last updated: 2026*
