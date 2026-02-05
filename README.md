@@ -17,5 +17,6 @@ It completely demystifies how to create "tight" controls, showing how functions 
 I really enjoyed this article because I love hearing about how Object Oriented Programming is applied to games where it is most apt. It is fascinating seeing how all in-game physics relies on two fundamental classes, `Solid`s and `Actor`s; it reminds me of my CS101 final project.
 
 ### Small change for updated username
+### Small change for updated email
 ---
 *Last updated: 2026*
