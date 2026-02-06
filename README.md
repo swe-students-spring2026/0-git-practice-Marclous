@@ -1,7 +1,10 @@
-# 🛠️ Game Mechanic Development
+# Game Mechanic Development
 
-## Engineering Focus: [Celeste and TowerFall Physics](https://maddythorson.medium.com/celeste-and-towerfall-physics-d24bd2ae0fc5)
+## Engineering Focus: Celeste and TowerFall Physics
 **By Maddy Thorson**
+
+### Article link
+https://maddythorson.medium.com/celeste-and-towerfall-physics-d24bd2ae0fc5
 
 ### The Code Behind the Game Feel
 This is one of the most transparent looks at character controller logic ever published by a major indie studio. Thorson shares the actual C# code used to drive the character's movement.
